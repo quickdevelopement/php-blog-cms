@@ -29,3 +29,44 @@
 - [x] Ensure your are root of the project
 - [x] Write Command
 `php -S localhost:5000`
+
+## Build Project Step By Step
+#### Step One
+- README.md
+- config.php
+- blog.sql
+- Create Dir “includes”
+- alert.php
+#### Step Two
+- index.php
+- header.php
+- footer.php 
+- navar.php
+#### Step Three
+- post.php
+- contact.php
+#### Step Four
+- register.php
+- login.php
+- logout.php
+#### Step Five
+- dashboard.php
+- navigation.php
+- sidebar.php
+#### Step Six
+- posts.php
+- create dir “uploads”
+- create-post.php
+- edit-post.php
+- delete-post.php
+#### Step Seven
+- users.php
+- create-user.php
+- delete-user.php
+- update-user.php 
+#### Step Eight
+- profile.php
+- edit-profile.php
+#### Step Nine
+- profile-picture.php
+- profile-picture-upload.php
